@@ -1,0 +1,2 @@
+# AIP-
+customer segemantation 
